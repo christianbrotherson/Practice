@@ -1,0 +1,1 @@
+File.delete("teams1.txt")
