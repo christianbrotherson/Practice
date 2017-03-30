@@ -1,0 +1,120 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #ab3939;
+  background: url('../../img/tesla.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+#heading {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 42px;
+  background-color: #e8e8e8
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#page-title {
+
+}
+
+.content {
+  font-size: .8em;
+  color: #767676; 
+  padding: 20px;
+  border-left: 10px solid #ab3939;
+  background-color: #e8e8e8
+}
+
+#sub {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px 5px 5px 42px;
+  width: 40%;
+  background-color: #e8e8e8
+}
+
+.highlight {
+  font-weight: 800;
+  font-variant: small-caps;
+  font-style: italic;
+  background-color: yellow;
+  text-transform: uppercase;
+  text-decoration: underline line-through overline;
+  /*text-shadow: 5px 3px 1px #b02626;*/
+}
+
+.package {
+  -webkit-transition: all 500ms ease-out 1s;
+  -moz-transition: all 500ms ease-out 1s;
+  -o-transition: all 500ms ease-out 1s;
+  transition: all 500ms ease-out 1s;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 50px;
+  font-size: 1.2em;
+  border-bottom: 10px solid green;
+  width: 200px;
+  background-color: #e8e8e8
+}
+
+.package:hover {
+  color: white;
+  cursor: pointer;
+  background-color: green;
+}
+
+#pricing-table {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Psuedo Classes*/ 
+
+
+
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: #ab3939;
+}
+
+a:active {
+  color: blue;
+}
+
+.content-bullet {
+  padding-left: 40px;
+  font-size: 1.5em;
+  list-style: square;
+}
+
+#blocks {
+  position: absolute;
+}
+
+.block {
+  height: 140px;
+  width: 250px;
+  margin: 20px;
+  float: left;
+  background-color: #ab3939
+}
