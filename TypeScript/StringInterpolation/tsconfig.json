@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "string_interpolation.ts"
+  ]
+}
