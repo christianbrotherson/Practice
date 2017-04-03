@@ -3,6 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "conditionals.ts"
+    // "conditionals.ts"
+    "compound_conditionals.ts"
   ]
 }
