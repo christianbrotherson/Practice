@@ -24,4 +24,4 @@ console.log(gradeGenerator(100));
 console.log(gradeGenerator(80));
 console.log(gradeGenerator(79));
 console.log(gradeGenerator(61));
-//# sourceMappingURL=functions.js.map
+//# sourceMappingURL=basic_functions.js.map

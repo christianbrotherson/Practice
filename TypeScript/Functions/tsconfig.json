@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    // "conditionals.ts"
-    "functions.ts"
+    // "basic_functions.ts"
+    "function_arguments.ts"
   ]
 }
