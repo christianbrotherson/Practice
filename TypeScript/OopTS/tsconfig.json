@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    // "intro_to_classes.ts"
+    "inheritance.ts"
+  ]
+}
