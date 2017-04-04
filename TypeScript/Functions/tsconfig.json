@@ -4,6 +4,8 @@
   },
   "files": [
     // "basic_functions.ts"
-    "function_arguments.ts"
+    // "function_arguments.ts"
+    "arrow_functions.ts"
   ]
 }
+
