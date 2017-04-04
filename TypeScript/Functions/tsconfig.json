@@ -7,7 +7,8 @@
     // "function_arguments.ts"
     // "arrow_functions.ts"
     // "function_declarations_vs_expressions.ts"
-    "immediately_invoked_functions.ts"
+    // "immediately_invoked_functions.ts"
+    "immediately_invoked_function_arguments.ts"
   ]
 }
 
