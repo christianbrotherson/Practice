@@ -6,6 +6,7 @@
     // "intro_to_classes.ts"
     // "inheritance.ts"
     // "objects.ts"
-    "interface.ts"
+    // "interface.ts"
+    "interface_functions.ts"
   ]
 }
