@@ -5,6 +5,7 @@
   "files": [
     // "intro_to_classes.ts"
     // "inheritance.ts"
-    "objects.ts"
+    // "objects.ts"
+    "interface.ts"
   ]
 }
